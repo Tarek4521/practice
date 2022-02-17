@@ -1,5 +1,6 @@
 @extends('frontend.layouts.app')
 
+
 @section('content')
 
 <main class="main">
@@ -18,7 +19,7 @@
                     <aside class="col-lg-3">
                       @include('frontend.pages.cart.section.cart_summery')
 
-                        <a href="category.html" class="btn btn-outline-dark-2 btn-block mb-3"><span>CONTINUE SHOPPING</span><i class="icon-refresh"></i></a>
+
                     </aside><!-- End .col-lg-3 -->
                 </div><!-- End .row -->
             </div><!-- End .container -->

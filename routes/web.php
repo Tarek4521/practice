@@ -26,3 +26,5 @@ Route::get('home','Frontend\HomeController@index');
 
 Route::get('cart','Frontend\CartController@index');
 
+Route::get('404','Frontend\Error404Controller@index');
+
