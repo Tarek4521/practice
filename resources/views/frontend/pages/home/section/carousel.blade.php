@@ -28,7 +28,7 @@
         }
     }'>
     <div class="instagram-feed">
-        <img src="assets/images/demos/demo-9/instagram/1.jpg" alt="img">
+        <img src="asset/frontend/assets/images/demos/demo-9/instagram/1.jpg" alt="img">
 
         <div class="instagram-feed-content">
             <a href="#"><i class="icon-heart-o"></i>466</a>
@@ -37,7 +37,7 @@
     </div><!-- End .instagram-feed -->
 
     <div class="instagram-feed">
-        <img src="assets/images/demos/demo-9/instagram/2.jpg" alt="img">
+        <img src="asset/frontend/assets/images/demos/demo-9/instagram/2.jpg" alt="img">
 
         <div class="instagram-feed-content">
             <a href="#"><i class="icon-heart-o"></i>39</a>
@@ -46,7 +46,7 @@
     </div><!-- End .instagram-feed -->
 
     <div class="instagram-feed">
-        <img src="assets/images/demos/demo-9/instagram/3.jpg" alt="img">
+        <img src="asset/frontend/assets/images/demos/demo-9/instagram/3.jpg" alt="img">
 
         <div class="instagram-feed-content">
             <a href="#"><i class="icon-heart-o"></i>691</a>
@@ -55,7 +55,7 @@
     </div><!-- End .instagram-feed -->
 
     <div class="instagram-feed">
-        <img src="assets/images/demos/demo-9/instagram/4.jpg" alt="img">
+        <img src="asset/frontend/assets/images/demos/demo-9/instagram/4.jpg" alt="img">
 
         <div class="instagram-feed-content">
             <a href="#"><i class="icon-heart-o"></i>508</a>
@@ -64,7 +64,7 @@
     </div><!-- End .instagram-feed -->
 
     <div class="instagram-feed">
-        <img src="assets/images/demos/demo-9/instagram/5.jpg" alt="img">
+        <img src="asset/frontend/assets/images/demos/demo-9/instagram/5.jpg" alt="img">
 
         <div class="instagram-feed-content">
             <a href="#"><i class="icon-heart-o"></i>433</a>
@@ -73,7 +73,7 @@
     </div><!-- End .instagram-feed -->
 
     <div class="instagram-feed">
-        <img src="assets/images/demos/demo-9/instagram/6.jpg" alt="img">
+        <img src="asset/frontend/assets/images/demos/demo-9/instagram/6.jpg" alt="img">
 
         <div class="instagram-feed-content">
             <a href="#"><i class="icon-heart-o"></i>122</a>

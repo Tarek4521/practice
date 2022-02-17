@@ -5,7 +5,7 @@
                 <div class="col-sm-6 col-lg-4">
                     <div class="banner banner-overlay banner-lg">
                         <a href="#">
-                            <img src="assets/images/demos/demo-9/banners/banner-1.jpg" alt="Banner">
+                            <img src="asset/frontend/assets/images/demos/demo-9/banners/banner-1.jpg" alt="Banner">
                         </a>
 
                         <div class="banner-content banner-content-bottom">
@@ -20,7 +20,7 @@
                 <div class="col-sm-6 col-lg-4 order-lg-last">
                     <div class="banner banner-overlay banner-lg">
                         <a href="#">
-                            <img src="assets/images/demos/demo-9/banners/banner-4.jpg" alt="Banner">
+                            <img src="asset/frontend/assets/images/demos/demo-9/banners/banner-4.jpg" alt="Banner">
                         </a>
 
                         <div class="banner-content banner-content-top">
@@ -37,7 +37,7 @@
                         <div class="col-sm-6 col-lg-12">
                             <div class="banner banner-overlay">
                                 <a href="#">
-                                    <img src="assets/images/demos/demo-9/banners/banner-2.jpg" alt="Banner">
+                                    <img src="asset/frontend/assets/images/demos/demo-9/banners/banner-2.jpg" alt="Banner">
                                 </a>
 
                                 <div class="banner-content">
@@ -51,7 +51,7 @@
                         <div class="col-sm-6 col-lg-12">
                             <div class="banner banner-overlay">
                                 <a href="#">
-                                    <img src="assets/images/demos/demo-9/banners/banner-3.jpg" alt="Banner">
+                                    <img src="asset/frontend/assets/images/demos/demo-9/banners/banner-3.jpg" alt="Banner">
                                 </a>
 
                                 <div class="banner-content">
@@ -91,31 +91,31 @@
                 }
             }'>
             <a href="#" class="brand">
-                <img src="assets/images/brands/1.png" alt="Brand Name">
+                <img src="asset/frontend/assets/images/brands/1.png" alt="Brand Name">
             </a>
 
             <a href="#" class="brand">
-                <img src="assets/images/brands/2.png" alt="Brand Name">
+                <img src="asset/frontend/assets/images/brands/2.png" alt="Brand Name">
             </a>
 
             <a href="#" class="brand">
-                <img src="assets/images/brands/3.png" alt="Brand Name">
+                <img src="asset/frontend/assets/images/brands/3.png" alt="Brand Name">
             </a>
 
             <a href="#" class="brand">
-                <img src="assets/images/brands/4.png" alt="Brand Name">
+                <img src="asset/frontend/assets/images/brands/4.png" alt="Brand Name">
             </a>
 
             <a href="#" class="brand">
-                <img src="assets/images/brands/5.png" alt="Brand Name">
+                <img src="asset/frontend/assets/images/brands/5.png" alt="Brand Name">
             </a>
 
             <a href="#" class="brand">
-                <img src="assets/images/brands/6.png" alt="Brand Name">
+                <img src="asset/frontend/assets/images/brands/6.png" alt="Brand Name">
             </a>
 
             <a href="#" class="brand">
-                <img src="assets/images/brands/7.png" alt="Brand Name">
+                <img src="asset/frontend/assets/images/brands/7.png" alt="Brand Name">
             </a>
         </div><!-- End .owl-carousel -->
     </div><!-- End .container -->
@@ -170,8 +170,8 @@
                     <div class="product product-7 text-center">
                         <figure class="product-media">
                             <a href="product.html">
-                                <img src="assets/images/demos/demo-9/products/product-1-1.jpg" alt="Product image" class="product-image">
-                                <img src="assets/images/demos/demo-9/products/product-1-2.jpg" alt="Product image" class="product-image-hover">
+                                <img src="asset/frontend/assets/images/demos/demo-9/products/product-1-1.jpg" alt="Product image" class="product-image">
+                                <img src="asset/frontend/assets/images/demos/demo-9/products/product-1-2.jpg" alt="Product image" class="product-image-hover">
                             </a>
 
                             <div class="product-action-vertical">
@@ -199,13 +199,13 @@
 
                             <div class="product-nav product-nav-thumbs">
                                 <a href="#" class="active">
-                                    <img src="assets/images/demos/demo-9/products/product-1-thumb.jpg" alt="product desc">
+                                    <img src="asset/frontend/assets/images/demos/demo-9/products/product-1-thumb.jpg" alt="product desc">
                                 </a>
                                 <a href="#">
-                                    <img src="assets/images/demos/demo-9/products/product-1-2-thumb.jpg" alt="product desc">
+                                    <img src="asset/frontend/assets/images/demos/demo-9/products/product-1-2-thumb.jpg" alt="product desc">
                                 </a>
                                 <a href="#">
-                                    <img src="assets/images/demos/demo-9/products/product-1-3-thumb.jpg" alt="product desc">
+                                    <img src="asset/frontend/assets/images/demos/demo-9/products/product-1-3-thumb.jpg" alt="product desc">
                                 </a>
                             </div><!-- End .product-nav -->
                         </div><!-- End .product-body -->
@@ -214,8 +214,8 @@
                     <div class="product product-7 text-center">
                         <figure class="product-media">
                             <a href="product.html">
-                                <img src="assets/images/demos/demo-9/products/product-2-1.jpg" alt="Product image" class="product-image">
-                                <img src="assets/images/demos/demo-9/products/product-2-2.jpg" alt="Product image" class="product-image-hover">
+                                <img src="asset/frontend/assets/images/demos/demo-9/products/product-2-1.jpg" alt="Product image" class="product-image">
+                                <img src="asset/frontend/assets/images/demos/demo-9/products/product-2-2.jpg" alt="Product image" class="product-image-hover">
                             </a>
 
                             <div class="product-action-vertical">
@@ -247,8 +247,8 @@
                         <figure class="product-media">
                             <span class="product-label label-sale">sale</span>
                             <a href="product.html">
-                                <img src="assets/images/demos/demo-9/products/product-3-1.jpg" alt="Product image" class="product-image">
-                                <img src="assets/images/demos/demo-9/products/product-3-2.jpg" alt="Product image" class="product-image-hover">
+                                <img src="asset/frontend/assets/images/demos/demo-9/products/product-3-1.jpg" alt="Product image" class="product-image">
+                                <img src="asset/frontend/assets/images/demos/demo-9/products/product-3-2.jpg" alt="Product image" class="product-image-hover">
                             </a>
 
                             <div class="product-action-vertical">
@@ -280,8 +280,8 @@
                     <div class="product product-7 text-center">
                         <figure class="product-media">
                             <a href="product.html">
-                                <img src="assets/images/demos/demo-9/products/product-4-1.jpg" alt="Product image" class="product-image">
-                                <img src="assets/images/demos/demo-9/products/product-4-2.jpg" alt="Product image" class="product-image-hover">
+                                <img src="asset/frontend/assets/images/demos/demo-9/products/product-4-1.jpg" alt="Product image" class="product-image">
+                                <img src="asset/frontend/assets/images/demos/demo-9/products/product-4-2.jpg" alt="Product image" class="product-image-hover">
                             </a>
 
                             <div class="product-action-vertical">
@@ -309,10 +309,10 @@
 
                             <div class="product-nav product-nav-thumbs">
                                 <a href="#" class="active">
-                                    <img src="assets/images/demos/demo-9/products/product-4-thumb.jpg" alt="product desc">
+                                    <img src="asset/frontend/assets/images/demos/demo-9/products/product-4-thumb.jpg" alt="product desc">
                                 </a>
                                 <a href="#">
-                                    <img src="assets/images/demos/demo-9/products/product-4-2-thumb.jpg" alt="product desc">
+                                    <img src="asset/frontend/assets/images/demos/demo-9/products/product-4-2-thumb.jpg" alt="product desc">
                                 </a>
                             </div><!-- End .product-nav -->
                         </div><!-- End .product-body -->
@@ -321,8 +321,8 @@
                     <div class="product product-7 text-center">
                         <figure class="product-media">
                             <a href="product.html">
-                                <img src="assets/images/demos/demo-9/products/product-1-1.jpg" alt="Product image" class="product-image">
-                                <img src="assets/images/demos/demo-9/products/product-1-2.jpg" alt="Product image" class="product-image-hover">
+                                <img src="asset/frontend/assets/images/demos/demo-9/products/product-1-1.jpg" alt="Product image" class="product-image">
+                                <img src="asset/frontend/assets/images/demos/demo-9/products/product-1-2.jpg" alt="Product image" class="product-image-hover">
                             </a>
 
                             <div class="product-action-vertical">
@@ -349,13 +349,13 @@
                             </div><!-- End .rating-container -->
                             <div class="product-nav product-nav-thumbs">
                                 <a href="#" class="active">
-                                    <img src="assets/images/demos/demo-9/products/product-1-thumb.jpg" alt="product desc">
+                                    <img src="asset/frontend/assets/images/demos/demo-9/products/product-1-thumb.jpg" alt="product desc">
                                 </a>
                                 <a href="#">
-                                    <img src="assets/images/demos/demo-9/products/product-1-2-thumb.jpg" alt="product desc">
+                                    <img src="asset/frontend/assets/images/demos/demo-9/products/product-1-2-thumb.jpg" alt="product desc">
                                 </a>
                                 <a href="#">
-                                    <img src="assets/images/demos/demo-9/products/product-1-3-thumb.jpg" alt="product desc">
+                                    <img src="asset/frontend/assets/images/demos/demo-9/products/product-1-3-thumb.jpg" alt="product desc">
                                 </a>
                             </div><!-- End .product-nav -->
                         </div><!-- End .product-body -->
