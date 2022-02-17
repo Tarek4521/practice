@@ -24,3 +24,5 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
 
 Route::get('home','Frontend\HomeController@index');
 
+Route::get('cart','Frontend\CartController@index');
+
